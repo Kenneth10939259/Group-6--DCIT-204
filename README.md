@@ -1,6 +1,6 @@
 # Group-6--DCIT-204
 This repository includes our previous and current group projects.
-Members
+Group Members
 Shafika Awusi Mohammed Sharif -10984975
 Michael Kumi Larbi- 10956133
 Emmanuella Pokuaa Danso-10980151
